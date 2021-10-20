@@ -78,7 +78,7 @@ git init
 ```
 ![.](ScreenShot/26.jpg)
 
-## *Tambahkan File ke Repository**
+## **Tambahkan File ke Repository**
 Untuk bisa menambahkan file ke repository GitHub,perlu menerapkan langkah-langkah di bawah ini:
 
 Buat file di folder yang sudah dibuat (Eza-Git). Contohnya, di sini  membuat file javascript : index.php
@@ -99,12 +99,32 @@ bebas membuat membuat nama Commit apa saja.
 ## **Remote Repository Github**
 Remote repository berfungsi untuk mengupload file yang telah di buat sebelumnya di local disk. Masukkan perintah berikut ini untuk melakukan remote repository:
 ```sh
-git remote add origin rezastein531@gmail.com:Rezastein/Eza-Git.git
+git branch -M main
+git remote add origin https://github.com/Rezastein/Eza-Git.git
 ```
 Perintah di atas tidak akan menghasilkan output apa pun.
 
 ## **Push ke GitHub**
 Langkah terakhir adalah push ke GitHub Push ini berfungsi untuk mengupload hasil akhir dari langkah-langkah di atas. Masukkan perintah berikut untuk melakukan push ke GitHub:
 ```sh
-git push -u origin master
+git push -u origin main
 ```
+Perintah di atas akan menampilkan pop up sign in GitHub.
+<br>
+login untuk melanjutkan proses push ke GitHub. 
+<p>
+Jika proses login berhasil, akan muncul tampilan Command Prompt seperti di bawah:
+
+![.](ScreenShot/28.jpg)
+
+## **Cek File**
+Setelah itu, cek repository yang telah di buat. akan mendapati file-file yang telah ditambahkan sebelumnya. Pada tutorial ini kami menambahkan tiga file, yaitu index.php, ScreenShot/, dan README.md. 
+
+![.](ScreenShot/30.jpg)
+
+
+## **Kesimpulan**
+Cara menggunakan Git ini wajib diketahui dan dikuasai oleh semua developer karena akan sangat membantu dalam mengerjakan project pembuatan website. Demikian penjelasan tentang cara menggunakan Git. Jika masih ada pertanyaan, jangan sungkan untuk meninggalkan di kolom komentar. Jangan lupa juga subscribe untuk mendapatkan informasi terbaru dari kami.
+
+
+
