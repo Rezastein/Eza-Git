@@ -1,8 +1,10 @@
 # **Cara Install Git  dan Cara Menggunakan Git**
-
 [![instagram](https://img.shields.io/badge/Nama-Maulana%20Reza-blue.svg)](https://www.instagram.com/rezastein_) [![instagram](https://img.shields.io/badge/Nim-312110510-blue.svg)](https://www.instagram.com/rezastein_) [![instagram](https://img.shields.io/badge/Kelas-TI.21.C5-blue.svg)](https://www.instagram.com/rezastein_)
 
-[![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/85px-Instagram_logo_2016.svg.png)](https://www.instagram.com/rezastein_) [![facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/85px-F_icon.svg.png)](https://www.facebook.com/rezastein.rezastein) [![twiter](https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/85px-Twitter_bird_logo_2012.svg.png)](https://twitter.com/rezastein_) [![whatapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/85px-WhatsApp.svg.png)](https://wa.me/qr/UK5NMG54XWHJC1)
+### **MY SOSIAL MEDIA :**
+
+[![instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/30px-Instagram_logo_2016.svg.png)](https://www.instagram.com/rezastein_) <br> [![facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/30px-F_icon.svg.png)](https://www.facebook.com/rezastein.rezastein) <br> [![twiter](https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/30px-Twitter_bird_logo_2012.svg.png)](https://twitter.com/rezastein_) <br> [![whatapp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/30px-WhatsApp.svg.png)](https://wa.me/qr/UK5NMG54XWHJC1)
+
 
 
 ## **Install Git**
